@@ -7,7 +7,7 @@ const home = () => {
       <nav>
         <h2>Bienvenido</h2>
         <div className="menu">
-          <button><Link to='/login'>Inicia Sesión</Link></button>
+          <button><Link to='/login'>Inicio de Sesión</Link></button>
           <button><Link to='/signup'>Registrate</Link></button>
         </div>
       </nav>
